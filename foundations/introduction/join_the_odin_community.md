@@ -108,3 +108,4 @@ Your Colorful Code
      * Discord Settings > Connections > Click GitHub icon > Allow Access > Make sure "Display on profile" is toggled on.
 
 </div>
+
